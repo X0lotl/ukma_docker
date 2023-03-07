@@ -17,7 +17,7 @@ Go to the project directory
 Build docker image
 
 ```bash
-  docker build . -t ukma/docker-server
+  sudo docker build . -t ukma/docker-server
 ```
 
 Run docker image with memory and cpu limit
