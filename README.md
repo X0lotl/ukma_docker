@@ -14,6 +14,16 @@ Go to the project directory
   cd ukma_docker
 ```
 
+Install dependencies
+
+```bash
+  pnpm install
+```
+or
+```bash
+  npm install
+```
+
 Build docker image
 
 ```bash
